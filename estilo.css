@@ -1,0 +1,42 @@
+body,html {
+    margin: auto;
+    border: 5px solid rgb(76, 159, 56);
+    background-color: rgb(197, 197, 197);
+    text-align: justify;
+}
+h1 {
+    text-align: center;
+    font-size: 300%;
+}
+h2 {
+    text-align: center;
+    font-size: 215%;
+    border-top: 2px solid rgb(76, 159, 56);
+    border-width: 50%;
+}
+h3 {
+    padding-left: 3%;
+    font-size: 150%;
+}
+p {
+    padding: 0% 1% 0% 1%;
+    font-size: 110%;
+}
+ol {
+    padding: 0% 3% 0% 5%;
+    font-size: 110%;
+}
+ul {
+    padding: 0% 5% 0% 6%;
+    font-size: 110%;
+}
+img {
+    padding-left: 25%;
+}
+footer {
+    background-color: rgb(76, 159, 56);
+}
+h4 {
+    padding-left: 5%;
+    font-size: 130%;
+}
